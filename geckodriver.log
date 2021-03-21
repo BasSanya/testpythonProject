@@ -1,0 +1,53 @@
+1616354096050	geckodriver	INFO	Listening on 127.0.0.1:63569
+1616354099074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileyVRmzc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616354102573	Marionette	INFO	Listening on port 63579
+1616354102784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1615816821, line 2475: unreachable code after return statement
+1616354112897	Marionette	INFO	Stopped listening on port 63579
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616354333679	geckodriver	INFO	Listening on 127.0.0.1:64652
+1616354336716	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileM4lT5F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616354339584	Marionette	INFO	Listening on port 64661
+1616354339913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1616354341273	Marionette	INFO	Stopped listening on port 64661
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\OleksandrBoliukh\AppData\Local\Temp\rust_mozprofileM4lT5F\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616354524623	geckodriver	INFO	Listening on 127.0.0.1:61112
+1616354527655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileViwMHW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616354530407	Marionette	INFO	Listening on port 61121
+1616354530840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1616354532300	Marionette	INFO	Stopped listening on port 61121
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616354533042	geckodriver	INFO	Listening on 127.0.0.1:61165
+1616354536063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofileaNNVz0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616354538890	Marionette	INFO	Listening on port 61175
+1616354539250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1616354540506	Marionette	INFO	Stopped listening on port 61175
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\OleksandrBoliukh\AppData\Local\Temp\rust_mozprofileaNNVz0\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616354541346	geckodriver	INFO	Listening on 127.0.0.1:61219
+1616354544372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\OLEKSA~1\\AppData\\Local\\Temp\\rust_mozprofilehfU2AS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616354547398	Marionette	INFO	Listening on port 61229
+1616354547551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1616354549084	Marionette	INFO	Stopped listening on port 61229
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
